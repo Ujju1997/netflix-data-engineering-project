@@ -1,7 +1,7 @@
 # Project Name : Netflix Data Engineering Project
   
 <p align="center">
-    <img src="https://community.nasscom.in/sites/default/files/media/images/HR-Analytics.jpg" alt="Logo" width="400" height="300">
+    <img src="https://onedata.ai/wp-content/uploads/2024/02/azure-cloud.svg" alt="Logo" width="400" height="300">
 </p>
 
 
